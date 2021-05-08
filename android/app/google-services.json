@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "557198805301",
+    "project_id": "cryptotracker-acdbf",
+    "storage_bucket": "cryptotracker-acdbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557198805301:android:f47a24258a3069b162e47c",
+        "android_client_info": {
+          "package_name": "com.ganesh.cryptotracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557198805301-rqc4rb3rpjupdproketjvgcopm4tovi2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ganesh.cryptotracker",
+            "certificate_hash": "5fa80c18151601e963a195bad98c9d6360750fce"
+          }
+        },
+        {
+          "client_id": "557198805301-u5oa1v9rrf4hdako04pft1kndbf434i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzfNEUrGjuW0L_KijDIZiEpvLBRIx3BO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557198805301-u5oa1v9rrf4hdako04pft1kndbf434i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
